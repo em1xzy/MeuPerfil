@@ -1,0 +1,33 @@
+/* 1. Reset Básico e Fontes */
+body {
+    font-family: Arial, sans-serif; /* Define uma fonte padrão */
+    line-height: 1.6;
+    margin: 0; /* Remove a margem padrão do navegador */
+    padding: 20px;
+    background-color: #f4f4f4; /* Fundo claro para o currículo */
+    color: #333; /* Cor de texto padrão */
+}
+
+/* 2. Estilizando o Cabeçalho */
+header {
+    text-align: center; /* Centraliza o texto */
+    padding: 40px 0;
+    margin-bottom: 20px;
+    background-color: #000000; /* Fundo escuro para destaque */
+    color: white; /* Texto claro no cabeçalho */
+    border-radius: 8px; /* Cantos arredondados */
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+main {
+    max-width: 800px; /* Limita a largura do conteúdo principal */
+    margin: auto; /* Centraliza o conteúdo principal */
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
