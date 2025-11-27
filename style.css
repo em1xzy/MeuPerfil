@@ -17,6 +17,9 @@ header {
     color: white; /* Texto claro no cabeçalho */
     border-radius: 8px; /* Cantos arredondados */
 }
+header img {
+    border-radius: 50%;
+}
 
 header h1 {
     margin: 0;
