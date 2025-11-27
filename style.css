@@ -1,4 +1,4 @@
-/* 1. Reset Básico e Fontes */
+
 body {
     font-family: Arial, sans-serif; /* Define uma fonte padrão */
     line-height: 1.6;
@@ -30,4 +30,8 @@ main {
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+ a {
+    color:#000000;
+    text-decoration: none;
 }
